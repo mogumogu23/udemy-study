@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>よくあるご質問</title>
+    </head>
+　　<body>
+    <h1 style="text-align: center; font-size: 5em;">よくあるご質問</h1>
+    <h1 style="text-align: right; font-size: 1.5em;">よくあるご質問</h1>
+    <h1 style="text-align: left;">よくあるご質問</h1>
+    <p style="color: red;">よくあるご質問に回答いたします。</p>
+    <h2>一般的な質問</h2>
+    <h3>会員の種類を教えてください</h3>
+    <p style="color: blue;">会員の種類には次のものがあります</p>
+    <ul>
+        <li>一般会員</li>
+        <li>プレミアム会員</li>
+    </ul>
+    <h3>手順方法</h3>
+    <ol>
+        <li>アカウント登録</li>
+        <li>身分証明書登録</li>
+    </ol>
+    <h2>技術的な質問</h2>    
+</body>
+</html>
+ 
